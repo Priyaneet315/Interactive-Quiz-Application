@@ -44,4 +44,4 @@ Trivia games or fun quiz pages on entertainment sites
 >Outcome: The task helped me practice dynamic content rendering using JavaScript, understand conditional logic for multiple input types, and improve my skills in DOM manipulation and responsive design. I also gained experience structuring a small application and writing clean, modular code. Completing this task in VS Code gave me practical exposure to working in a real developer environment using only fundamental web technologies.
 
 *OUTPUT:
-<img width="1470" height="956" alt="Image" src="https://github.com/user-attachments/assets/187fee3e-e6d9-4caf-8379-8d4de3d315bb" />
+<img width="952" height="740" alt="Image" src="https://github.com/user-attachments/assets/19c6073c-cca8-4941-a4bf-c2cb65da3a12" />
