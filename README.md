@@ -13,7 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *DESCRIPTION OF THE TASK*:
-              As part of my internship in frontend web development, I was assigned a task to design and build an interactive quiz application using HTML, CSS, and JavaScript. The purpose of this task was to demonstrate the ability to create a user-friendly, responsive web interface that could dynamically load questions, accept user input, give real-time feedback, and track scores and progress.
+             First task, Designing and developing an interactive quiz application using HTML, CSS, and JavaScript was one of the tasks entrusted to me during my internship in frontend web development. The task was assigned to test whether one could build a user-friendly responsive web interface for dynamically loading questions, accepting user input, handling real-time feedback, and keeping track of scores and progress.
 
 >Tools and Technologies Used:
 >Code Editor: Visual Studio Code (VS Code)
@@ -22,26 +22,11 @@
 
 >Task Performed:
 
-The task began with creating the HTML structure of the app. I defined elements for the question box, answer input area, submit and reset buttons, feedback messages, a score display, and a progress bar. The quiz was built to support two types of questions:
+The task started with creating the HTML layout of the app. Elements were defined for the question box, answer input area, submit-and-reset buttons, feedback messages, score display, and progress bar. The quiz handled two types of questions:
 
-Text input questions, where the user manually types the answer.
-Multiple choice questions (MCQs), where the user selects from given options using radio buttons.
-Once the layout was in place, I used CSS to style the app. The styling focused on simplicity and readability, with the main goal of keeping the interface clean and centered on the page. I also ensured the app was responsive, so it would display properly on both desktop and mobile screens.
-
-The functionality was handled using JavaScript. I created an array of question objects, each with properties such as the type, question text, options (for MCQs), and the correct answer. When the quiz loads, the current question is displayed dynamically. Depending on its type, either a text field or a set of radio buttons is rendered.
-
-When the user clicks “Submit,” JavaScript checks the answer against the correct one and gives immediate feedback by showing either “Correct!” or “Incorrect!” along with the correct answer. The score is updated in real time. A progress bar was implemented to show how far along the user is in the quiz, and a reset button was added so the user can retake the quiz from the beginning.
-
->Application and Use Cases: 
->This type of interactive quiz app can be applied in several real-world scenarios:
-
-E-learning platforms for testing students’ understanding after lessons
-Corporate training portals for employee assessments
-Online recruitment platforms to screen applicants
-School and college websites for mock tests and practice quizzes
-Trivia games or fun quiz pages on entertainment sites
-
->Outcome: The task helped me practice dynamic content rendering using JavaScript, understand conditional logic for multiple input types, and improve my skills in DOM manipulation and responsive design. I also gained experience structuring a small application and writing clean, modular code. Completing this task in VS Code gave me practical exposure to working in a real developer environment using only fundamental web technologies.
+A text input-type question, where the user types in an answer.
+A multiple-choice-question-type question, where answers are selected by clicking applicable options with radio buttons.
+Once the layout was defined, I went on and applied CSS onto the app. The style was simple and readable, yet the main emphasis was on keeping the interface clean and centered on the input.
 
 *OUTPUT:
 <img width="952" height="740" alt="Image" src="https://github.com/user-attachments/assets/19c6073c-cca8-4941-a4bf-c2cb65da3a12" />
